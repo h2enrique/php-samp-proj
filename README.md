@@ -1,1 +1,1 @@
-# php-samp-proj
+## Simple sample project created in Laravel framework
